@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1540649116 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question1.cpp
+	<iostream>
+
+1540663019 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question2.cpp
+	<iostream>
+
+1540669627 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/question3.cpp
+	<iostream>
+
+1540671056 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question4.cpp
+	<iostream>
+
+1540682386 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question5.cpp
+	<iostream>
+
+1540685601 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question6.cpp
+	<iostream>
+
+1540751729 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question7.cpp
+	<iostream>
+	<vector>
+
+1540752639 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question8.cpp
+	<iostream>
+	<vector>
+
+1541263817 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question11.cpp
+	<iostream>
+	<vector>
+
+1541271455 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question12.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1541272612 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question13.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1541282278 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question14.cpp
+	<iostream>
+	<string>
+
+1541350586 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question15.cpp
+	<iostream>
+
+1541351961 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question16.cpp
+	<iostream>
+
+1541353912 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question17.cpp
+	<iostream>
+
+1541365296 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question18.cpp
+	<iostream>
+
+1541375278 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_15/question20.cpp
+	<iostream>
+	<ctime>
+
+1541397879 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_14/question1.cpp
+	<iostream>
+
+1541398284 source:/home/saintanger/Documents/training/cppPractice/thinking_in_cpp/thinkingInCPP/chapter_14/question2.cpp
+	<iostream>
+
